@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "d:\\Dev\\recipe-app-api\\.venv\\Scripts\\python.exe",
+    "python.formatting.provider": "autopep8"
+}
